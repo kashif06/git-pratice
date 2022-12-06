@@ -7,3 +7,7 @@ Apple
 Mango
 Banana
 Chickoo
+Sunday
+Monday
+Tuesday
+Wednesday

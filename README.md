@@ -11,4 +11,3 @@ Sunday
 Monday
 Tuesday
 Wednesday
-\n
